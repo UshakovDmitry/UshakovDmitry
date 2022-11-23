@@ -14,7 +14,7 @@
 [![vk](https://img.shields.io/badge/-Вконтакте-141321?style=for-the-badge&logo=vk)](https://vk.com/ushakov_08)
 [![vk](https://img.shields.io/badge/-HH-141321?style=for-the-badge&logo=headhunter)](https://vk.com/ushakov_08)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=UshakovDmitry&card_width=450&theme=radical" />
 </a>
  <a href="">
