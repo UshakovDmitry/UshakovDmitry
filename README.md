@@ -19,8 +19,7 @@
 [![vk](https://img.shields.io/badge/-HH-2A2839?style=for-the-badge&logo=headhunter)](https://vk.com/ushakov_08)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=UshakovDmitry&theme=radical" />
-
+  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=UshakovDmitry&card_width=400&theme=radical" />
 </a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshakovDmitry&layout=compact&theme=radical" />
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshakovDmitry&layout=compact&card_width=290&theme=radical" />
 </a>
