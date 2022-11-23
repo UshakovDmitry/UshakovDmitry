@@ -8,4 +8,4 @@
 
 ### Contacts
 
-[![[Telegram]<img src="https://img.shields.io/badge/telegram-696969?style=for-the-badge&logo=telegram&logoColor=#####26A5E4"/> ](https://t.me/Mobil_08)
+![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram) (https://t.me/Mobil_08)
