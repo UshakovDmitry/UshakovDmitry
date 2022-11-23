@@ -16,3 +16,8 @@
 [![twitter](https://img.shields.io/badge/-twitter-2A2839?style=for-the-badge&logo=twitter)](https://vk.com/ushakov_08)
 [![linkedin](https://img.shields.io/badge/-linkedin-2A2839?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmitry-ushakov-016438255/)
 [![vk](https://img.shields.io/badge/-Вконтакте-2A2839?style=for-the-badge&logo=vk)](https://vk.com/ushakov_08)
+[![vk](https://img.shields.io/badge/-HH-2A2839?style=for-the-badge&logo=headhunter)](https://vk.com/ushakov_08)
+
+[![UshakovDmitry GitHub stats](https://github-readme-stats.vercel.app/api?username=UshakovDmitry&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UshakovDmitry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
