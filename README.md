@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-141321?style=for-the-badge&logo=Telegram)](https://t.me/Mobil_08)
 [![Instagram](https://img.shields.io/badge/-Instagram-141321?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ushakov.08/)
 [![Facebook](https://img.shields.io/badge/-Facebook-141321?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100004233817312)
-[![twitter](https://img.shields.io/badge/-twitter-141321?style=for-the-badge&logo=twitter)](https://vk.com/ushakov_08)
+[![twitter](https://img.shields.io/badge/-twitter-141321?style=for-the-badge&logo=twitter)](https://twitter.com/frontend_mobile)
 [![linkedin](https://img.shields.io/badge/-linkedin-141321?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmitry-ushakov-016438255/)
 [![vk](https://img.shields.io/badge/-Вконтакте-141321?style=for-the-badge&logo=vk)](https://vk.com/ushakov_08)
 
