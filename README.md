@@ -1,4 +1,4 @@
-![Header](https://github.com/UshakovDmitry/UshakovDmitry/blob/main/front.png)
+![Header](https://github.com/UshakovDmitry/UshakovDmitry/blob/main/blue%20header.png)
 
 ### languages and Tools
 
