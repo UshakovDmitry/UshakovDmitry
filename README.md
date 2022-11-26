@@ -1,4 +1,4 @@
-![Header](https://github.com/UshakovDmitry/UshakovDmitry/blob/main/nicenice.gif)
+![Header](https://github.com/UshakovDmitry/UshakovDmitry/blob/main/nicegif.gif)
 
 ### languages and Tools
 
