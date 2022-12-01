@@ -17,10 +17,10 @@
 <!-- [![vk](https://img.shields.io/badge/-Вконтакте-203447?style=for-the-badge&logo=vk)](https://vk.com/ushakov_08) -->
 
 <a href="">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=UshakovDmitry&card_width=450&theme=cobalt" />
+  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=UshakovDmitry&card_width=450&card_width=340&theme=cobalt" />
 </a>
  <a href="">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshakovDmitry&layout=compact&card_width=340&theme=cobalt" />
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshakovDmitry&layout=compact&card_width=340&card_height=40theme=cobalt" />
 </a>
 
 
