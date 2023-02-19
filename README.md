@@ -31,7 +31,7 @@
 
 ## Messages (click to go)
 
-<div align="center">
+<div >
 
  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
@@ -45,7 +45,7 @@
 [3]: https://www.instagram.com/mvyazovski
 [4]: https://telegram.me/MViazovski
 
-<div>
+</div>
 
 
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-203448?style=for-the-badge&logo=Telegram)](https://t.me/Mobil_08)
