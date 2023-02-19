@@ -31,8 +31,31 @@
 
 ## Messages (click to go)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-203448?style=for-the-badge&logo=Telegram)](https://t.me/Mobil_08)
-[![linkedin](https://img.shields.io/badge/-linkedin-203447?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmitry-ushakov-016438255/)
+<div align="center">
+
+ [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+[1]: https://twitter.com/MaximVyazovski
+[2]: https://www.linkedin.com/in/maksim-viazovski-395a95258/
+[3]: https://www.instagram.com/mvyazovski
+[4]: https://telegram.me/MViazovski
+
+<div>
+
+
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-203448?style=for-the-badge&logo=Telegram)](https://t.me/Mobil_08)
+[![linkedin](https://img.shields.io/badge/-linkedin-203447?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmitry-ushakov-016438255/) -->
+
+
+
+
+
+
 
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-203447?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ushakov.08/) -->
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-203447?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id485660=100004233817312) -->
