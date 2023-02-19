@@ -33,7 +33,7 @@
 
 <div >
 
- [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+ [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]  [![Instagram][3.2]][3]  [![Telegram][4.2]][4]
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 
@@ -43,9 +43,9 @@
 
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MaximVyazovski
-[2]: https://www.linkedin.com/in/maksim-viazovski-395a95258/
-[3]: https://www.instagram.com/mvyazovski
+[1]: https://twitter.com/frontend_mobile
+[2]: https://www.linkedin.com/in/dmitry-ushakov-016438255/
+[3]: https://www.instagram.com/ushakov.08
 [4]: https://telegram.me/Mobil_08
 
 </div>
