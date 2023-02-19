@@ -46,7 +46,7 @@
 [1]: https://twitter.com/MaximVyazovski
 [2]: https://www.linkedin.com/in/maksim-viazovski-395a95258/
 [3]: https://www.instagram.com/mvyazovski
-[4]: https://telegram.me/MViazovski
+[4]: https://telegram.me/Mobil_08
 
 </div>
 
