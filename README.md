@@ -27,7 +27,7 @@
 
 <!-- ### ushakovsky95@gmail.com -->
 
-#### dimau95@yandex.ru
+### dimau95@yandex.ru
 
 ## Messages (click to go)
 
