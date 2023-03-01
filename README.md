@@ -32,10 +32,10 @@
 ## Messages (click to go)
 
 <div >
-   <a href="https://s4.uupload.ir/files/twitter_prkb.png" target="_blank"><img style="margin: 25px" src="https://s4.uupload.ir/files/twitter_prkb.png" alt="HTML5" height="30" /></a> 
-   <a href="https://www.instagram.com/ushakov.08" target="_blank"><img style="margin: 25px" src="https://s4.uupload.ir/files/instagram_6djz.png" alt="HTML5" height="30" /></a> 
-   <a href="https://www.linkedin.com/in/dmitry-ushakov-016438255/" target="_blank"><img style="margin: 25px" src="https://s4.uupload.ir/files/linkedin_amwn.png" alt="HTML5" height="30" /></a> 
-   <a href="https://s4.uupload.ir/files/twitter_prkb.png" target="_blank"><img style="margin: 25px" src="https://s4.uupload.ir/files/telegram_q47u.png" alt="HTML5" height="30" /></a> 
+   <a href="[https://s4.uupload.ir/files/twitter_prkb.png](https://twitter.com/frontend_mobile)" target="_blank"><img style="margin: 45px" src="https://s4.uupload.ir/files/twitter_prkb.png" alt="HTML5" height="40" /></a> 
+   <a href="https://www.instagram.com/ushakov.08" target="_blank"><img style="margin: 45px" src="https://s4.uupload.ir/files/instagram_6djz.png" alt="HTML5" height="40" /></a> 
+   <a href="https://www.linkedin.com/in/dmitry-ushakov-016438255/" target="_blank"><img style="margin: 45px" src="https://s4.uupload.ir/files/linkedin_amwn.png" alt="HTML5" height="40" /></a> 
+   <a href="https://t.me/Mobil_08" target="_blank"><img style="margin: 45px" src="https://s4.uupload.ir/files/telegram_q47u.png" alt="HTML5" height="40" /></a> 
 </div>
 
 
